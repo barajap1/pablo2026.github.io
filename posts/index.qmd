@@ -1,0 +1,9 @@
+---
+title: "Posts"
+---
+
+Welcome to my posts. Below are recent posts from this site.
+
+- [Welcome to my posts](2026-03-02-welcome-post.qmd)
+
+<!-- Add new posts by creating files in the `posts/` folder. -->

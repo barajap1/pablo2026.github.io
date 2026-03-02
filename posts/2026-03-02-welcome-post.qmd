@@ -1,0 +1,14 @@
+---
+title: "Welcome to my posts"
+date: 2026-03-02
+---
+
+This is the first post on the site. I'll use this space to share updates, projects, and notes.
+
+### What I'll write about
+
+- Projects and demos
+- Tutorials and notes
+- Random experiments
+
+Stay tuned — more posts coming soon.

@@ -9,3 +9,5 @@ This is your portfolio site. Start by editing this page and `about.qmd` to make 
 - Edit `about.qmd` with your info
 - Create a project post in `posts/`
 - Push to `main` and your site will auto-deploy
+- 
+- Read recent writing on the Posts page: posts/index.qmd
