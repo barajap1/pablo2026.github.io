@@ -4,7 +4,14 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Replace this text with a short bio about yourself. What are you studying? What are you interested in? What do you want to work on?"
+    "text": "About Me\ncan you help me"
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Welcome to my posts. Below are recent posts from this site.\n\nWelcome to my posts"
   },
   {
     "objectID": "index.html",
@@ -18,6 +25,20 @@
     "href": "index.html#next-steps",
     "title": "Welcome!",
     "section": "Next Steps",
-    "text": "Next Steps\n\nEdit about.qmd with your info\nCreate a project post in posts/\nPush to main and your site will auto-deploy"
+    "text": "Next Steps\n\nEdit about.qmd with your info\nCreate a project post in posts/\nPush to main and your site will auto-deploy\n\nRead recent writing on the Posts page: posts/index.qmd"
+  },
+  {
+    "objectID": "my-first-project/index.html",
+    "href": "my-first-project/index.html",
+    "title": "Predicting Customer Churn with Logistic Regression",
+    "section": "",
+    "text": "Introduction\nThis is my first post! In this project, I will analyze a telecom dataset to understand what factors contribute to customer churn. I will use logistic regression to build a predictive model and provide actionable insights for the business."
+  },
+  {
+    "objectID": "posts/2026-03-02-welcome-post.html",
+    "href": "posts/2026-03-02-welcome-post.html",
+    "title": "Welcome to my posts",
+    "section": "",
+    "text": "This is the first post on the site. I’ll use this space to share updates, projects, and notes.\n\nWhat I’ll write about\n\nProjects and demos\nTutorials and notes\nRandom experiments\n\nStay tuned — more posts coming soon."
   }
 ]
